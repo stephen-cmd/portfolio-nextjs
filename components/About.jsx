@@ -41,7 +41,7 @@ const About = () => {
             <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
                         <div className='m-auto'>
                             <Image 
-                            src='/../public/assets/skills/Stephen_Du_Preez.jpeg' 
+                            src='/static/img/Stephen_Du_Preez.jpeg' 
                             width='400' 
                             height='100' 
                             alt='/'
