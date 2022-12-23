@@ -25,7 +25,7 @@ const About = () => {
 
                 <p className='py-2 text-gray-600'>
                    I graduated in 2019 and had aspirations to move to the USA, but unfortunately the CoronaVirus broke out at that time. 
-                   In the years thereafter I realized that all I need is right here in South Africa, it's a country like no other. 
+                   In the years thereafter I realized that all I need is right here in South Africa, it&apos;s a country like no other. 
                    The hard lockdowns were difficult for everyone, but I managed to find a job working for a Cyber Incident Response team in 2021, where I have been growing and learning in different aspects within the company to date.   
                 </p>
                 
