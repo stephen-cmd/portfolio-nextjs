@@ -38,7 +38,7 @@ Please make sure that whilst installing to install Node Package Manager(NPM)
 
 <h3>Once project is open in vscode</h3> 
 
-<h4>In vscode terminal:</h4> 
+<h4>In vscode terminal(Ctrl+Shift+`):</h4> 
 
 Commands:
 
